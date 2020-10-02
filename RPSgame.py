@@ -1,3 +1,30 @@
+#Algorithm
+'''
+Print the Game Instruction to the User/Player
+    
+Infinite Loop 
+    Tell User to enter either Rock, Paper, Scissor
+    Get the response from the User
+    Print the response from the User
+    
+    Computer chooses randomly between Rock, Paper and Scissor
+    Print computers choice
+    Print User Choice and Computer Choice
+    
+    
+    Decide the condition of wining according to the Game Instructions
+    
+    
+    Compare the result with user and computer 
+    Printing either user or computer wins 
+    
+    
+    Get the response from User to Play Again
+    Check the response from User and continue the loop
+    Othewise break the loop to close the game
+Print a Thanks Message to the user
+
+'''
 
 #Rock , Paper , Scissor Game
 
