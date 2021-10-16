@@ -53,6 +53,8 @@ while True:
     
     import random
     comp_choice = random.choice(['rock','paper','scissor']) 
+    
+    # choice function can often be used for choosing a random element from a list.
 
     print("Computer choice is: " + comp_choice + "\n") 
   
