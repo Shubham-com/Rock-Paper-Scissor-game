@@ -67,6 +67,9 @@ while True:
     elif((user_choice == "rock" and comp_choice == "scissor") or
         (user_choice == "scissor" and comp_choice == "rock")): 
         result = "rock"
+     elif((user_choice == "scissor" and comp_choice == "paper") or
+        (user_choice == "paper" and comp_choice == "scissor")): 
+        result = "paper"  
     elif(user_choice == "rock" and comp_choice == "rock"):
         result = "rock"
     elif(user_choice == "paper" and comp_choice == "paper"): 
