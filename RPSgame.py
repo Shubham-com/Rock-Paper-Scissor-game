@@ -85,9 +85,9 @@ while True:
     if (result == user_choice and result == comp_choice): 
         print("<== Draw ==>") 
     elif (result == user_choice): 
-        print("<== User wins ==>") 
+        print("<== User wins the game ==>") 
     else: 
-        print("<== Computer wins ==>") 
+        print("<== Computer wins the game ==>") 
     
       
     ans = input("Do you want to play again ? (Y/N) > ") 
